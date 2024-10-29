@@ -1,0 +1,38 @@
+{
+  "name": "pokemones-app",
+  "version": "0.1.0",
+  "keywords": [
+    "cells",
+    "template",
+    "scaffold",
+    "web"
+  ],
+  "dependencies": {
+
+    "@bbva-web-components/bbva-button-default": "^5.15.0",
+    "@bbva-web-components/bbva-core-heading": "^1.1.1",
+    "@bbva-web-components/bbva-core-lit-helpers": "^1.0.0",
+    "@bbva-web-components/bbva-foundations-grid-tools-layout": "^1.0.4",
+    "@bbva-web-components/bbva-foundations-icons": "^1.0.0",
+    "@bbva-web-components/bbva-foundations-spinner": "^1.0.14",
+    "@bbva-web-components/bbva-foundations-styles": "^2.0.0",
+
+    "@meraki/pokemones-ui":"https://github.com/Matafur/Cells-Pokemon-UI.git#main",
+    "@cells-demo/demo-data-dm": "^1.0.0",
+    "@cells-demo/demo-detail-container": "^1.0.0",
+    "@cells-demo/demo-header-container": "^1.0.0",
+    "@cells-demo/demo-menu-container-web": "^1.0.0",
+    "@cells-demo/demo-table-movements": "^1.0.0",
+    "@cells-demo/demo-web-container": "^1.0.0",
+    "@cells-demo/demo-web-template": "^1.0.0",
+    "@cells/cells-bridge": "^3.17.0",
+    "@cells/cells-page-mixin": "^1.0.0",
+    "@open-wc/lit-helpers": "^0.3.0",
+    "@webcomponents/webcomponentsjs": "^2.5.0",
+    "cells-app-template": "^6.0.0",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.2.0"
+  }
+}
